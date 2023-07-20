@@ -1,7 +1,7 @@
 {
   "name": "backupreact",
   "version": "0.1.0",
-  "homepage": "samanthajoy13.github.io/reactPortfolio/",
+  "homepage": "samanthajoy13.github.io/backupReactPortfolio/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
