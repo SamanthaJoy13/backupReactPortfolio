@@ -39,4 +39,4 @@ Install dependencies: Run ``npm install`` to install the required packages.
 To start the development server and preview the project in your web browser, use ``npm start``
 
 ## Link 
-https://samanthajoy13.github.io/backupReactPortfolio/
+http://192.168.5.33:3000/samanthajoy13.github.io/backupReactPortfolio
