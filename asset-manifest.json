@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/samanthajoy13.github.io/backupReactPortfolio/static/css/main.e810dbea.css",
+    "main.js": "/samanthajoy13.github.io/backupReactPortfolio/static/js/main.2b9535b9.js",
+    "static/media/1stPortfolio.png": "/samanthajoy13.github.io/backupReactPortfolio/static/media/1stPortfolio.acc08eb1a8452f4dc4d8.png",
+    "static/media/jonesies.png": "/samanthajoy13.github.io/backupReactPortfolio/static/media/jonesies.d96e34e3053736442304.png",
+    "static/media/project1.png": "/samanthajoy13.github.io/backupReactPortfolio/static/media/project1.5b995dd817c28b428582.png",
+    "static/media/Me.jpg": "/samanthajoy13.github.io/backupReactPortfolio/static/media/Me.7fb776c8ceb5a6fec324.jpg",
+    "static/media/workDay.png": "/samanthajoy13.github.io/backupReactPortfolio/static/media/workDay.6d2fbe5916b86103420a.png",
+    "static/media/chirper.png": "/samanthajoy13.github.io/backupReactPortfolio/static/media/chirper.976e10733e43bba6a628.png",
+    "static/media/notes.png": "/samanthajoy13.github.io/backupReactPortfolio/static/media/notes.c210b6cf63b2cbd30e05.png",
+    "index.html": "/samanthajoy13.github.io/backupReactPortfolio/index.html",
+    "main.e810dbea.css.map": "/samanthajoy13.github.io/backupReactPortfolio/static/css/main.e810dbea.css.map",
+    "main.2b9535b9.js.map": "/samanthajoy13.github.io/backupReactPortfolio/static/js/main.2b9535b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e810dbea.css",
+    "static/js/main.2b9535b9.js"
+  ]
+}
