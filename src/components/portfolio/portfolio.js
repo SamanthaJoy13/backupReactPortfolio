@@ -14,6 +14,7 @@ const projects = [
     title: 'Jonesies Jewlery',
     src: jonsiesImg,
     repoLink: 'https://github.com/Rockoban420/jonsiesJewlery',
+    deployLink: 'https://jonsies-jewlery-19583fefdde0.herokuapp.com/',
   },
   {
     title: 'Chirper',
